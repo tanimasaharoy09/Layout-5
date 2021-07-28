@@ -1,0 +1,46 @@
+header{
+    background-color: crimson ;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+
+}
+.center{
+    overflow: hidden;
+    text-align: center;
+    margin: 10px;
+}
+
+.one{
+    background-color: darkcyan;
+    width: 20%;
+    height: 400px;
+    float: left;
+    
+
+}
+.two{
+    background-color: yellow;
+    width: 80%;
+    height: 400px;
+    float: left;
+    
+
+}
+.three{
+    background-color: seagreen ;
+    width: 20%;
+    height: 300px;
+    float: right;
+   
+    
+   
+   
+
+}
+footer{
+    background-color: rebeccapurple;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+}
